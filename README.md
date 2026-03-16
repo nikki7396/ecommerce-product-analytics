@@ -55,5 +55,22 @@ The following analyses were conducted:
  Address cart abandonment with targeted discounts and reminders.
  Schedule marketing campaigns during peak purchase hours.
 
+ ## Visualizations
+
+## Conversion Funnel
+This chart illustrates the user journey from viewing a product to completing a purchase.  
+A significant drop occurs between the **view** and **add-to-cart** stages.
+
+
+## Category Conversion Rates
+This visualization compares conversion rates across product categories, highlighting which products drive the most purchases.
+
+## Purchases by Hour
+This chart shows the distribution of purchases throughout the day and helps identify peak shopping hours.
+
+## User Segmentation
+This chart groups users based on their behavior patterns such as browsing, cart abandonment, and completed purchases.
+
+
 
 
